@@ -22,8 +22,10 @@
   font-size: 50px;
   background-color: red;
   width: 400px;
+  font-weight: 1000;
 }
 
 .detail {
   text-align: center;
+  font-style: italic;
 }
