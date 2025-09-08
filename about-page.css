@@ -1,0 +1,26 @@
+* {
+  color: white;
+  background-color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.header {
+  font-size: 69px;
+  text-align: right;
+}
+
+.about-me-1 {
+  text-align: center;
+  color: red;
+  text-wrap: balance;
+  font-size: 20px;
+}
+
+.footer-2 {
+  text-align: center;
+  background-color: red;
+  font-size: 15px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
