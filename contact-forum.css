@@ -9,13 +9,6 @@
   text-align: right;
 }
 
-.about-me-1 {
-  text-align: center;
-  color: red;
-  text-wrap: balance;
-  font-size: 20px;
-}
-
 .footer {
   text-align: center;
   background-color: red;
@@ -23,8 +16,4 @@
   position: fixed;
   bottom: 0;
   width: 100%;
-}
-
-.image {
-  text-align: center;
 }
