@@ -18,6 +18,12 @@
   width: 100%;
 }
 
-.image {
-  text-align: right;
+.message {
+  font-size: 50px;
+  background-color: red;
+  width: 400px;
+}
+
+.detail {
+  text-align: center;
 }
