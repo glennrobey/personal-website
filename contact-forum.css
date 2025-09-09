@@ -10,14 +10,14 @@
 }
 
 .footer {
-  text-align: center;
   background-color: red;
+  text-align: center;
   font-size: 15px;
   position: fixed;
   bottom: 0;
   width: 100%;
+  height: 1.5rem;
 }
-
 .message {
   font-size: 50px;
   background-color: red;
@@ -28,4 +28,12 @@
 .detail {
   text-align: center;
   font-style: italic;
+  text-wrap: balance;
+}
+
+.nav-links {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px;
 }
