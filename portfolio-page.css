@@ -33,15 +33,16 @@
 
 .portfolio {
   text-align: center;
-  color: red;
+  color: white;
   font-size: 20px;
-  border: 5px solid red;
+  border: 5px solid white;
   border-width: 5px;
   display: inline-block;
   place-items: center;
   padding: 10px;
   width: 50%;
   max-width: 50%;
+  background-color: red;
 }
 
 .portfolio-container {
@@ -54,4 +55,9 @@
   margin: 0.5rem auto;
   object-fit: contain;
   width: 100%;
+  outline: 5px solid white;
+}
+
+.portfolio-image-zoo {
+  outline: 5px solid black;
 }
